@@ -3,7 +3,7 @@ This project explains how we can host multiple webpages using the powerfull ESP-
 We will be starting a server on the ESP-8266 at port 80 and the RESTFULL API's will be used to switch from one webpage to another.
 
 # NOTE:- 
-- Before doing this project having a prior knowledge of the following things is necessary
+Before doing this project having a prior knowledge of the following things is necessary
 - How to make a web server with the ESP-8266.
 - Basic concepts of the RESTful web services.
 - What is a station and what is an access point. 
