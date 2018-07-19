@@ -42,6 +42,6 @@ First we need to start the server on the ESP8266 and start listing to the client
 - http:/192.168.4.1/page?logout& will display the Thank you page
 ### NOTE: Refer to the Final_switch_multiple_page.ino for the detailed view of the code:
 
-
+# For brief explanation visit: https://www.instructables.com/id/Host-Multiple-Webpage-Using-the-ESP8266-As-Server/
 
 
